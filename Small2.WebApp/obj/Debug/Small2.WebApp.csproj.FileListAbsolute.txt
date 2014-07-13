@@ -24,3 +24,8 @@ c:\projects\test\Small2\Small2.WebApp\bin\System.Web.WebPages.Deployment.xml
 c:\projects\test\Small2\Small2.WebApp\bin\System.Web.WebPages.Razor.xml
 c:\projects\test\Small2\Small2.WebApp\obj\Debug\Small2.WebApp.dll
 c:\projects\test\Small2\Small2.WebApp\obj\Debug\Small2.WebApp.pdb
+c:\projects\test\Small2\Small2.WebApp\bin\EntityFramework.dll
+c:\projects\test\Small2\Small2.WebApp\bin\EntityFramework.xml
+c:\projects\test\Small2\Small2.WebApp\obj\Debug\Small2.WebApp.csprojResolveAssemblyReference.cache
+c:\projects\test\Small2\Small2.WebApp\obj\Debug\Small2.WebApp.Migrations.Init.resources
+c:\projects\test\Small2\Small2.WebApp\obj\Debug\Small2.WebApp.csproj.GenerateResource.Cache

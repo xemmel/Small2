@@ -28,3 +28,5 @@ c:\projects\test\Small2\Small2.WebApp.Tests\bin\Debug\System.Web.WebPages.Razor.
 c:\projects\test\Small2\Small2.WebApp.Tests\obj\Debug\Small2.WebApp.Tests.csprojResolveAssemblyReference.cache
 c:\projects\test\Small2\Small2.WebApp.Tests\obj\Debug\Small2.WebApp.Tests.dll
 c:\projects\test\Small2\Small2.WebApp.Tests\obj\Debug\Small2.WebApp.Tests.pdb
+c:\projects\test\Small2\Small2.WebApp.Tests\bin\Debug\EntityFramework.dll
+c:\projects\test\Small2\Small2.WebApp.Tests\bin\Debug\EntityFramework.xml
