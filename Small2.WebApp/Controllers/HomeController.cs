@@ -16,5 +16,11 @@ namespace Small2.WebApp.Controllers
             return View();
         }
 
+        public ActionResult About()
+        {
+          return View();
+        }
+
+
     }
 }

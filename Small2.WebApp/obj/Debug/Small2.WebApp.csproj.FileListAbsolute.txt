@@ -22,6 +22,5 @@ c:\projects\test\Small2\Small2.WebApp\bin\System.Web.Razor.xml
 c:\projects\test\Small2\Small2.WebApp\bin\System.Web.WebPages.xml
 c:\projects\test\Small2\Small2.WebApp\bin\System.Web.WebPages.Deployment.xml
 c:\projects\test\Small2\Small2.WebApp\bin\System.Web.WebPages.Razor.xml
-c:\projects\test\Small2\Small2.WebApp\obj\Debug\Small2.WebApp.csprojResolveAssemblyReference.cache
 c:\projects\test\Small2\Small2.WebApp\obj\Debug\Small2.WebApp.dll
 c:\projects\test\Small2\Small2.WebApp\obj\Debug\Small2.WebApp.pdb
