@@ -4,6 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
   <link href="~/Content/bootstrap.css" rel="stylesheet" />
+  <link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
   <title>@ViewBag.Title</title>
 </head>
 <body>
@@ -43,5 +44,12 @@
     <div class="well">Copyright @DateTime.Now.Year TicItNow</div>
 
   </footer>
+  <script src="~/Scripts/jquery-2.1.1.js"></script>
+  <script src="~/Scripts/jquery-ui-1.10.4.js"></script>
+  <script>
+    $(".dp").datepicker();
+  </script>
+  @RenderSection(name: "scripts", required: false)
+  
 </body>
 </html>
